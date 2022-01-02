@@ -1,0 +1,28 @@
+html, body,{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.header-area {
+	height: 180px;
+	overflow: hidden;
+}
+.banner-images img {
+	width: 100%;
+}
+
+.footer-area {
+	background-color: #ccc;
+}
+.ftco-footer-social li {
+	display: inline-block;
+}
+.ftco-footer-social li a {
+	display: block;
+}
+.ftco-footer-social li a img {
+	width: 50px;
+}
+.card a img {
+	width: 100%;
+}
